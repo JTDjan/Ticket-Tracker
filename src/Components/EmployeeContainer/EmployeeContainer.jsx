@@ -5,8 +5,8 @@ const EmployeeContainer = (props) => {
   const {name , role} = props
 return (
   <div className ="employeeContainer">
-    <h2>{name}</h2>
-    <h3>{role}</h3>
+    <h2 className ="employeeContainer__nameText">{name}</h2>
+    <h3 className ="employeeContainer__roleText" >{role}</h3>
 
     <div className="employeeContainer__Counter">
       <h3 className = "employeeContainer__counterTitle">Counter</h3>

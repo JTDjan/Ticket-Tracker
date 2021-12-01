@@ -8,8 +8,8 @@ console.log(team);
 const CardContainer = () => {
   return <div className="cardContainer"> 
 
-  { team.map(member => {
-    return <EmployeeContainer name={member.name} role={member.role} />
+  { team.map((member, index) => {
+    return <EmployeeContainer key ={"member" + index} name={member.name} role={member.role} />
   })}
     
   </div>
