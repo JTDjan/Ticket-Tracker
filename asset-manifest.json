@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ticket-Tracker/static/css/main.bfebd73b.chunk.css",
+    "main.js": "/Ticket-Tracker/static/js/main.e2d9b811.chunk.js",
+    "main.js.map": "/Ticket-Tracker/static/js/main.e2d9b811.chunk.js.map",
+    "runtime-main.js": "/Ticket-Tracker/static/js/runtime-main.9886d518.js",
+    "runtime-main.js.map": "/Ticket-Tracker/static/js/runtime-main.9886d518.js.map",
+    "static/js/2.e647ae38.chunk.js": "/Ticket-Tracker/static/js/2.e647ae38.chunk.js",
+    "static/js/2.e647ae38.chunk.js.map": "/Ticket-Tracker/static/js/2.e647ae38.chunk.js.map",
+    "static/js/3.17fddd77.chunk.js": "/Ticket-Tracker/static/js/3.17fddd77.chunk.js",
+    "static/js/3.17fddd77.chunk.js.map": "/Ticket-Tracker/static/js/3.17fddd77.chunk.js.map",
+    "index.html": "/Ticket-Tracker/index.html",
+    "static/css/main.bfebd73b.chunk.css.map": "/Ticket-Tracker/static/css/main.bfebd73b.chunk.css.map",
+    "static/js/2.e647ae38.chunk.js.LICENSE.txt": "/Ticket-Tracker/static/js/2.e647ae38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9886d518.js",
+    "static/js/2.e647ae38.chunk.js",
+    "static/css/main.bfebd73b.chunk.css",
+    "static/js/main.e2d9b811.chunk.js"
+  ]
+}
