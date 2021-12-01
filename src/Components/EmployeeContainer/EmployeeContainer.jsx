@@ -1,11 +1,12 @@
 import React from 'react';
 import "./EmployeeContainer.scss";
 
-const EmployeeContainer = () => {
+const EmployeeContainer = (props) => {
+  const {name , role} = props
 return (
   <div className ="employeeContainer">
-    <h2>Name 1</h2>
-    <h3>Role 1</h3>
+    <h2>{name}</h2>
+    <h3>{role}</h3>
 
     <div className="employeeContainer__Counter">
       <h3 className = "employeeContainer__counterTitle">Counter</h3>
