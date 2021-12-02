@@ -5,14 +5,18 @@
   height: 15rem;
   padding-bottom: 1rem;
   box-shadow: 1rem;
+  background-color: #3b3fa885;
 
   &__nameText {
     padding-left: 0.5rem;
+    background: transparent;
   }
 
   &__roleText { 
     font-size: 1rem;
     padding-left: 0.5rem;
+    background: transparent;
+
   }
 
   
