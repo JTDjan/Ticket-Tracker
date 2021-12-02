@@ -19,3 +19,14 @@
 
 }
 
+@media screen and (max-width:375px){
+  .employeeContainer {
+   height: 50%;
+
+  &__nameText{
+    padding: 5px;
+  }
+
+  }
+  }
+

@@ -18,4 +18,17 @@
   }
 }
 
+@media screen and (max-width:375px){
+  .counterContainer {
+    height: 115px;
+    
+    &__btn{
+      width: 20%;
+      padding: 6px;
+      border-radius: 10px;
+      
+    }
+  }
+  }
+
 
